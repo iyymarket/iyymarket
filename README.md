@@ -1,4 +1,14 @@
-## Hi there 👋
+# iyymarket 精品账号超市
+## 欢迎您光临 [https://iyymarket.com](https://iyymarket.com) 
+
+### 谷歌炸鸡店 [https://iyymarket.com/google/](https://iyymarket.com/google/) 
+谷歌邮箱购买，本店专业提供高质量的谷歌邮箱（Gmail）服务，致力于满足个人用户和商业用户的多样化需求。我们出售经过验证的Gmail账号，支持批量购买、个性化定制邮箱地址，以及与其他平台的绑定配置服务。所有账号均稳定可靠，适用于日常通信、电商注册、营销推广等多种用途。
+
+### 电报麻辣烫 [https://iyymarket.com/telegram/](https://iyymarket.com/telegram/) 
+电报购买telegram，电报邮箱号，本店专注于提供高质量的Telegram（电报）账号服务，深受个人用户和商业团队的信赖。我们出售稳定可靠的TG账号，支持批量购买和定制服务，满足电商运营、社群管理、营销推广等多种需求。我们的账号经过严格验证，安全性高，长期可用。提供多种套餐选择，无论是单个账号还是大批量需求，都能快速交付，确保客户使用无忧。此外，我们还提供技术支持，包括账号绑定、功能设置及问题解决，全面提升用户体验。
+
+### Talkatone [https://iyymarket.com/talkatone/](https://iyymarket.com/talkatone/) 
+Talkatone购买，Talkatone定制，本店专注提供高质量的Talkatone账号，特别注重满足客户个性化需求，打造独一无二的定制服务体验。我们支持根据客户需求定制Talkatone账号，包括专属用户名、特定地区号码、长期稳定使用等，完美适配跨境通信、临时注册和商业推广等多种场景。
 
 <!--
 **iyymarket/iyymarket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
